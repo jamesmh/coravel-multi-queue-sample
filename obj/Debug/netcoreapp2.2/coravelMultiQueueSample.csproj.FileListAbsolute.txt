@@ -1,0 +1,3 @@
+D:\personal\repos\coravelMultiQueueSample\obj\Debug\netcoreapp2.2\coravelMultiQueueSample.csprojAssemblyReference.cache
+D:\personal\repos\coravelMultiQueueSample\obj\Debug\netcoreapp2.2\coravelMultiQueueSample.AssemblyInfoInputs.cache
+D:\personal\repos\coravelMultiQueueSample\obj\Debug\netcoreapp2.2\coravelMultiQueueSample.AssemblyInfo.cs
